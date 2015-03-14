@@ -1,2 +1,2 @@
 # x-lab
-js gallery for the futrue
+Web Components for experiment
